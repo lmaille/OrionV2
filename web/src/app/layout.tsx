@@ -10,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Danswer",
+  title: "Orion V2",
   description: "Question answering for your documents",
 };
 
